@@ -23,7 +23,7 @@ console.log(getEvenNumbers(arrNumb));
 
  
 let num;
-
+let mama;
 
 const getGreateTenNumbers = createFilter((el) => el > 10);
 console.log(getGreateTenNumbers(arrNumb));
